@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-start",
+  "version": "1.0.0",
+  "description": "This is an intro to node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-sanpedro/nodejs-start.git"
+  },
+  "author": "Matthew San Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matt-sanpedro/nodejs-start/issues"
+  },
+  "homepage": "https://github.com/matt-sanpedro/nodejs-start#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
